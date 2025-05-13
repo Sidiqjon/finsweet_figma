@@ -5,7 +5,7 @@ import About from "./about/About";
 import Pricing from "./pricing/Pricing";
 import Work from "./work/Work";
 import Blog from "./blog/Blog";
-import Contact from "./contact/contact";
+import Contact from "./contact/Contact";
 import Layout from "./layout/Layout";
 import NotFound from "./not-found/NotFound";
 
